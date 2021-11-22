@@ -5,6 +5,7 @@ body,
 header,
 #intro-section {
     height: 100%;
+    overflow-x: hidden;
 }
 
 @media (max-width: 740px) {
