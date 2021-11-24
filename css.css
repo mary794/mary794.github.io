@@ -6,7 +6,9 @@ header,
 #intro-section {
     height: 100%;
     overflow-x: hidden;
+
 }
+
 
 @media (max-width: 740px) {
     html,
@@ -14,6 +16,8 @@ header,
     header,
     #intro-section {
         height: 100vh;
+        
+
     }
 }
 
